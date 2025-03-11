@@ -9,7 +9,7 @@ This project is a user management system that allows users to view, edit, and do
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/celerates-fe.git
+git clone https://github.com/Arifyudi26/celerates-fe
 cd celerates-fe
 ```
 
